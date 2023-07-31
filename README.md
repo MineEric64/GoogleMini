@@ -1,8 +1,8 @@
 # Google Mini
-Optimal Google and YouTube websites that contain only search feature.
+Optimal Google website that contain only search feature.
  > **Note**: Simple &amp; Clean
 
 ## Series
-- [Google]()
-- [YouTube]()
-- [Rainbow Tiles]()
+- [Google](https://mineeric64.github.io/GoogleMini)
+- [YouTube](https://mineeric64.github.io/YouTubeMini)
+- [Rainbow Tiles](https://mineeric64.github.io/RainbowTiles)
