@@ -1,6 +1,6 @@
 # Google Mini
 Optimal Google website that contain only search feature.
- > **Note**: Simple &amp; Clean
+ > **Note**: Simple & Clean
 
 ## Series
 - [Google](https://mineeric64.github.io/GoogleMini)
