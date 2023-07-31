@@ -1,4 +1,6 @@
 # Google Mini
+![Imgur](https://i.imgur.com/Lz6WLgY.png)
+
 Optimal Google website that contain only search feature.
  > **Note**: Simple & Clean
 
